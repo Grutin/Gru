@@ -1,1 +1,5 @@
+function foo()
+{
+	//do something
 
+};
